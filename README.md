@@ -53,13 +53,12 @@
 ---
 
 ## 🚀 Run it yourself
-```bash
 git clone https://github.com/YOUR_USERNAME/covid-greece-analytics.git
 cd covid-greece-analytics
 pip install -r requirements.txt
 jupyter lab
 
-## 📸 Visualizations
+## 📸 Visualizations 
 
 <p align="center">
   <img src="plots/cases_deaths_7d.png" alt="Daily cases & deaths (7-day avg)" width="400"/>

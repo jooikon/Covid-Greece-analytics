@@ -60,16 +60,7 @@ jupyter lab
 
 ## 📸 Visualizations
 
-<p align="center">
-  <img src="plots/Daily%20cases%20&%20deaths%20(7-day%20avg).png" alt="Daily cases & deaths (7-day avg)" width="400"/>
-  <img src="plots/Percentage%20of%20fully%20vaccinated%20people.png" alt="Percentage of fully vaccinated people" width="400"/>
-  <br/>
-  <img src="plots/Unvaccinated%20%.png" alt="Unvaccinated %" width="400"/>
-  <img src="plots/ICU_patients.png" alt="ICU patients" width="400"/>
-  <br/>
-  <img src="plots/Veekly%20tests.png" alt="Weekly tests" width="400"/>
-  <img src="plots/eekly_positives.png" alt="Weekly positives" width="400"/>
-</p>
+
 
 
 

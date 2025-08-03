@@ -4,8 +4,9 @@
 ---
 
 ## 📊 Dataset Overview  
-**Source**: Our World in Data – daily official reports for **Greece only**  
-**Coverage**: 2020-03-01 → 2024-08-13 (≈ 1.6 K days)
+**Dataset**: [owid-covid-data.csv](https://covid.ourworldindata.org/data/owid-covid-data.csv)  
+(Our World in Data – daily updated, filtered for Greece) [^99^]
+
 
 | Column | Description |
 |--------|-------------|

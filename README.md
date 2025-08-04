@@ -79,8 +79,6 @@ if __name__ == "__main__":
     
     download_csv(csv_url, output_file)
 
----
 
-Would you like me to prepare this as a full updated README file for you to replace yours?
 
 

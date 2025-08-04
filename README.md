@@ -53,7 +53,7 @@ Beginner-level data-science project using Python
 
 ### 🚀 Run it yourself  
 ```bash
-git clone https://github.com/YOUR_USERNAME/covid-greece-analytics.git
-cd covid-greece-analytics
+git clone https://github.com/jooikon/Covid-Greece-analytics.git
+cd Covid-Greece-analytics
 pip install -r requirements.txt
 jupyter lab
